@@ -1,0 +1,66 @@
+var a = "asdad"
+var a = 23
+
+ans = ? 23
+
+what is temporal dead zone
+
+what is evnt loop
+
+what are promises
+
+let a = 1 || true 1
+let a = null && true true
+
+
+how does nodejs handle 1000 requests under the hood
+
+what are closures
+
+// let arr = [1,[2,3,[4,[5],6],7]]
+// const flatten = () => {
+    
+// }
+// for(let i=0;i<arr.length;i++){
+    
+// }
+
+// let text = "Homa loves coding Homa also loves solving challenges Coding is fun and challenges make Homa happy"
+
+// text = text.split(" ")
+
+// const frequency = {}
+
+// text.map((item)=>{
+//     if(frequency[item]){
+//           frequency[item] = frequency[item] + 1
+//     }else{
+//         frequency[item] = 1
+//     }
+  
+// })
+
+// let tt = []
+
+// let newText = Object.keys(frequency).map((item)=>{
+//     tt.push(item)
+// })
+
+// console.log(frequency)
+
+// console.log(tt.sort((a,b)=>a-b).join(" "))
+
+
+
+// const equ = {}
+
+// Object.keys(frequency).map((item)=>{
+//     let val = frequency[item]
+    
+// })
+
+const mongoose = require('mongoose')
+
+const user = mongoose.model({name:string,age:number})
+
+
